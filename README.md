@@ -53,6 +53,6 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer** from Colomb
 
 - **Email**: [ramon.colmenaresblanco@gmail.com](mailto:ramon.colmenaresblanco@gmail.com)  
 - **LinkedIn**: [Ramon Colmenares](https://www.linkedin.com/in/ramon-colmenares/)  
-- **Portfolio**: [Your Portfolio URL]  
+- **Portfolio**: [TBD]  
 
 Thanks for visiting my profile! I'm always open to collaborating, discussing ideas, or working on exciting projects together. 🌟  
